@@ -1,0 +1,28 @@
+
+BODY {
+	FONT-SIZE: 10px;
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+TD {
+	FONT-SIZE: 10px;
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+input.text {background-color: #DED9CA; font-size: 9px; height: 17px;}
+
+a {
+	FONT-SIZE: 10px;
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+input.file {background-color: #DED9CA; font-size: 9px; height: 17px;}
+textarea.text {background-color: #DED9CA; font-size: 11px; height: 80px; width:190px;}
